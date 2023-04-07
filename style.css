@@ -1,0 +1,10 @@
+td, body { font: 12px arial; }
+.container { width: 800px; background-color:#FFF; }
+.head { background: url(images/header.png); height: 136px;}
+.foot { background: #EEEEEE; font: 11px arial; color: #FFFFFF; padding: 5px; background: url(images/footer.gif) }
+.foot a { color: #FFFFFF; text-decoration: none; }
+.nav { text-align: left; background: #EEEEEE; line-height: 35px; background: url(images/nav.gif) }
+.nav_text { font-size: 13px; color: #000000; padding: 4px; padding-right: 25px; text-decoration: none; }
+h1 { font: 25px arial; }
+h2 { background: #CCCCCC; font: 15px arial; color: #FFFFFF; padding: 5px; font-weight: bold; background: url(images/nav.gif)}
+.button { background: url(images/bt.png); border: 0px solid #000000; color: #FFFFFF; font: 12px arial; padding: 4px; }
